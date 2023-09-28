@@ -18,6 +18,12 @@
     padding: 7px;
     width: fit-content;
     border-radius: 8px;
+    margin-top: 12px;
+}
+
+.form-check-input:checked {
+    border-color: white; /* Change the border color*/
+    background-color: grey; /* Change the background color*/
 }
 
 label {
@@ -27,4 +33,10 @@ label {
 i {
     color: white;
     font-size: 18px;
+}
+
+.dollar-sign {
+    background-color: white;
+    border: none;
+    font-weight: 700;
 }
