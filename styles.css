@@ -3,6 +3,28 @@
     margin-top: 40px;
 }
 
-.row {
+.red-alert {
     margin: 15px;
+    font-weight: 600;
+}
+
+.sub-text {
+    font-weight: light;
+}
+
+.inputAccept {
+    display: block;
+    background-color: grey;
+    padding: 7px;
+    width: fit-content;
+    border-radius: 8px;
+}
+
+label {
+    font-weight:500;
+}
+
+i {
+    color: white;
+    font-size: 18px;
 }
